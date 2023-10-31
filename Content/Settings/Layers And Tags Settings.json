@@ -1,0 +1,49 @@
+{
+	"ID": "bb6fbecf458db0ecffa5e2a5155b2b4f",
+	"TypeName": "FlaxEditor.Content.Settings.LayersAndTagsSettings",
+	"EngineBuild": 6344,
+	"Data": {
+	"Tags": [
+		"Bullet",
+		"Deathzone",
+		"Paddle",
+		"Pellet",
+		"Player",
+		"Wall"
+	],
+	"Layers": [
+		"Default",
+		"Player",
+		"Bullets",
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null
+	]
+}
+}

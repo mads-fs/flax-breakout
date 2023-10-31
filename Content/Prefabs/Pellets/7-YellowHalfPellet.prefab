@@ -1,0 +1,45 @@
+{
+	"ID": "a23537d84c449782f1c2b3b6e365b2a0",
+	"TypeName": "FlaxEngine.Prefab",
+	"EngineBuild": 6344,
+	"Data": [
+	{
+		"ID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"TypeName": "FlaxEngine.StaticModel",
+		"Name": "7-YellowHalfPellet",
+		"Transform": {
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Model": "b43f0f8f4aaba3f3156896a5a22ba493",
+		"Buffer": {
+			"Entries": [
+				{
+					"Material": "d445add14d11b791673142852e43a7f1",
+					"ShadowsMode": 3,
+					"Visible": true,
+					"ReceiveDecals": true
+				}
+			]
+		}
+	},
+	{
+		"ID": "2728ed42479450ccb6b4159a58dad54a",
+		"TypeName": "Game.Pellet",
+		"ParentID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"V": {
+	"Value": 7
+}
+	},
+	{
+		"ID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"TypeName": "FlaxEngine.BoxCollider",
+		"ParentID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"Name": "BoxCollider",
+		"Tag": "Pellet"
+	}
+]
+}

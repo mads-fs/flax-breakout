@@ -1,0 +1,1341 @@
+{
+	"ID": "ae9951dd456e43f8cecaa0b3e619681b",
+	"TypeName": "FlaxEngine.Prefab",
+	"EngineBuild": 6344,
+	"Data": [
+	{
+		"ID": "88f63bc14db7c4737983898d5b9b6614",
+		"TypeName": "FlaxEngine.EmptyActor",
+		"Name": "Level3"
+	},
+	{
+		"ID": "04c9440f482598be2a0db1888df5e827",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Transform": {
+			"Translation": {
+				"X": 0.0,
+				"Y": 130.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "0a8f34c14d76d05eb21f6893a5721548",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "04c9440f482598be2a0db1888df5e827",
+		"V": {}
+	},
+	{
+		"ID": "4b15049d46fc388da47b32919e2142b9",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "04c9440f482598be2a0db1888df5e827"
+	},
+	{
+		"ID": "20a18ac647ff202db442d1aaa8c07c85",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 0",
+		"Transform": {
+			"Translation": {
+				"X": -40.0,
+				"Y": 160.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "52a4ae0d479126a2b7d9f098aed2baee",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "20a18ac647ff202db442d1aaa8c07c85",
+		"V": {}
+	},
+	{
+		"ID": "82dd6c4c4e0300bbbd969d9f661bb3f6",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "20a18ac647ff202db442d1aaa8c07c85"
+	},
+	{
+		"ID": "36a951bf45216fa47342db895a5a49d7",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Transform": {
+			"Translation": {
+				"X": 0.0,
+				"Y": 160.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "7857579c41199ca02b1325b3f473c588",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "36a951bf45216fa47342db895a5a49d7",
+		"V": {}
+	},
+	{
+		"ID": "488887194def8af3e742bf84e6d65e14",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "36a951bf45216fa47342db895a5a49d7"
+	},
+	{
+		"ID": "f0753b7a4dfa9bb5dcc58a8a8a4f8e06",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 1",
+		"Transform": {
+			"Translation": {
+				"X": 40.0,
+				"Y": 160.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "1f359c2a4fb3aff024351e98f889f17b",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "f0753b7a4dfa9bb5dcc58a8a8a4f8e06",
+		"V": {}
+	},
+	{
+		"ID": "ece917f743902ddd59414c92cdcda913",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "f0753b7a4dfa9bb5dcc58a8a8a4f8e06"
+	},
+	{
+		"ID": "b82cabd143cc68689044f6ac19cbf048",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 2",
+		"Transform": {
+			"Translation": {
+				"X": -60.0,
+				"Y": 190.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "79d1982e4cfde8cc35cd43874d79a519",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "b82cabd143cc68689044f6ac19cbf048",
+		"V": {}
+	},
+	{
+		"ID": "6ce8d71242b64821329c71897c18998d",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "b82cabd143cc68689044f6ac19cbf048"
+	},
+	{
+		"ID": "52b613024269670c12d26a9c3b510bb2",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 0",
+		"Transform": {
+			"Translation": {
+				"X": -20.0,
+				"Y": 190.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "521a21124076585345d93ca7c34473f0",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "52b613024269670c12d26a9c3b510bb2",
+		"V": {}
+	},
+	{
+		"ID": "bb9cdf1d4a88c5e122b696b60e7df0ed",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "52b613024269670c12d26a9c3b510bb2"
+	},
+	{
+		"ID": "7f35098b457d14350977fca128bbeb53",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 1",
+		"Transform": {
+			"Translation": {
+				"X": 20.0,
+				"Y": 190.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "2bce274b49242b64ba34deb4811f3420",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "7f35098b457d14350977fca128bbeb53",
+		"V": {}
+	},
+	{
+		"ID": "65befd5b4caa41eaf0bff0874241675f",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "7f35098b457d14350977fca128bbeb53"
+	},
+	{
+		"ID": "5c4a778c461552215a5e25b5e4e0d298",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 3",
+		"Transform": {
+			"Translation": {
+				"X": 60.0,
+				"Y": 190.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "d86de1e14f305fc633e3029c8eef653d",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "5c4a778c461552215a5e25b5e4e0d298",
+		"V": {}
+	},
+	{
+		"ID": "fc92bdfe43f81385f26f8db8ee19185b",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "5c4a778c461552215a5e25b5e4e0d298"
+	},
+	{
+		"ID": "cc930bcc4f26755cdc322d92a3c6500b",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 4",
+		"Transform": {
+			"Translation": {
+				"X": -80.0,
+				"Y": 220.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "49c3da0c4925016c552312aa832c9ee5",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "cc930bcc4f26755cdc322d92a3c6500b",
+		"V": {}
+	},
+	{
+		"ID": "0978e23742394b179e4f939a94b098b5",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "cc930bcc4f26755cdc322d92a3c6500b"
+	},
+	{
+		"ID": "e358043143e5baf362210ca64ea594bd",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 2",
+		"Transform": {
+			"Translation": {
+				"X": -40.0,
+				"Y": 220.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "7548c95244526623a9ce92bfc2581be2",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "e358043143e5baf362210ca64ea594bd",
+		"V": {}
+	},
+	{
+		"ID": "f8fbd82249d3a3e8412b4caf19c037a8",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "e358043143e5baf362210ca64ea594bd"
+	},
+	{
+		"ID": "94bdc2614e6f9cff92ab2cbdbd9e574e",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 3",
+		"Transform": {
+			"Translation": {
+				"X": 0.0,
+				"Y": 220.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "d25c7310456818a4a270e49e8fe124bf",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "94bdc2614e6f9cff92ab2cbdbd9e574e",
+		"V": {}
+	},
+	{
+		"ID": "9ea94c2c450bb63b6dc148b4cb6d1c1a",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "94bdc2614e6f9cff92ab2cbdbd9e574e"
+	},
+	{
+		"ID": "fa9e6e2d425b47513fd6d88d2e1a4d41",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 4",
+		"Transform": {
+			"Translation": {
+				"X": 40.0,
+				"Y": 220.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "e7a80a3e4ed62e3d269b68a695f77805",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "fa9e6e2d425b47513fd6d88d2e1a4d41",
+		"V": {}
+	},
+	{
+		"ID": "17e35f0840ddfe8d6aea9cad07b5559f",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "fa9e6e2d425b47513fd6d88d2e1a4d41"
+	},
+	{
+		"ID": "837548f74733281729092890ed78f6e3",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "3a0dd8b4497c3f7499c3e88c6013da12",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "0-HalfPellet 5",
+		"Transform": {
+			"Translation": {
+				"X": 80.0,
+				"Y": 220.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "1d70a32d4599ad4d309f63a7e605c3b6",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "0ed1ea284ebf7c2037222dae7e164bc3",
+		"ParentID": "837548f74733281729092890ed78f6e3",
+		"V": {}
+	},
+	{
+		"ID": "9ae14ea24957b03df74a13ac0b14b6e9",
+		"PrefabID": "9f43c604489b44372283179bf934ae11",
+		"PrefabObjectID": "019f4e1d459b5188dab67d9e34177ab2",
+		"ParentID": "837548f74733281729092890ed78f6e3"
+	},
+	{
+		"ID": "9b6181ed48601a99f632e38f3a254ce3",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 5",
+		"Transform": {
+			"Translation": {
+				"X": -100.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "11c16b514fb076e6e064b0a429093528",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "9b6181ed48601a99f632e38f3a254ce3",
+		"V": {}
+	},
+	{
+		"ID": "a31e14d54b66678d051dbe84f0315555",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "9b6181ed48601a99f632e38f3a254ce3"
+	},
+	{
+		"ID": "425773c24bd8f3ed371c1084f6d3a116",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Transform": {
+			"Translation": {
+				"X": -60.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "b59713874d68c5112a5f49b201fe9c12",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "425773c24bd8f3ed371c1084f6d3a116",
+		"V": {}
+	},
+	{
+		"ID": "325428a243dccf2826464ca2bd4fe64f",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "425773c24bd8f3ed371c1084f6d3a116"
+	},
+	{
+		"ID": "f436f7b54ce7a3c894c2e89e86cdd50f",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 0",
+		"Transform": {
+			"Translation": {
+				"X": -20.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "bde0294547259251c14135bd6fd4307d",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "f436f7b54ce7a3c894c2e89e86cdd50f",
+		"V": {}
+	},
+	{
+		"ID": "7651462b47df915af3ae0ba34b08b86d",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "f436f7b54ce7a3c894c2e89e86cdd50f"
+	},
+	{
+		"ID": "5d76cabe4dac88aad0768ebddd473e3c",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 1",
+		"Transform": {
+			"Translation": {
+				"X": 20.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "4cb782e14ce35bc87dff878c02a53e6d",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "5d76cabe4dac88aad0768ebddd473e3c",
+		"V": {}
+	},
+	{
+		"ID": "9cde187b4a358bf6a99af8927713cbe2",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "5d76cabe4dac88aad0768ebddd473e3c"
+	},
+	{
+		"ID": "ab319d31498cce48ee54e29a6ba3cdb3",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 2",
+		"Transform": {
+			"Translation": {
+				"X": 60.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "b801772b4b172043063740ba277bfb09",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "ab319d31498cce48ee54e29a6ba3cdb3",
+		"V": {}
+	},
+	{
+		"ID": "56e8a48b46c452b13ea9e1a7ed4fb4a7",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "ab319d31498cce48ee54e29a6ba3cdb3"
+	},
+	{
+		"ID": "7502b9c84d1daaf958e547afe710f748",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 6",
+		"Transform": {
+			"Translation": {
+				"X": 100.0,
+				"Y": 250.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "acda3d1745018ac620985bb3183a6a07",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "7502b9c84d1daaf958e547afe710f748",
+		"V": {}
+	},
+	{
+		"ID": "758794364143f271c073a9a6a4b8146e",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "7502b9c84d1daaf958e547afe710f748"
+	},
+	{
+		"ID": "2cc8a59c4c3ce76772f6fdbdc165b6c4",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 7",
+		"Transform": {
+			"Translation": {
+				"X": -120.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "23cd9581434d70f3778fffbf758190c5",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "2cc8a59c4c3ce76772f6fdbdc165b6c4",
+		"V": {}
+	},
+	{
+		"ID": "05b1e1d341aa80ee49d880aab05d4154",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "2cc8a59c4c3ce76772f6fdbdc165b6c4"
+	},
+	{
+		"ID": "14604dfb46961156a4a76db55cd819e4",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 3",
+		"Transform": {
+			"Translation": {
+				"X": -80.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "5f4827714bdd67cbaefbc4a565271d68",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "14604dfb46961156a4a76db55cd819e4",
+		"V": {}
+	},
+	{
+		"ID": "d19441da48c7836c50c887b3a78b3fe3",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "14604dfb46961156a4a76db55cd819e4"
+	},
+	{
+		"ID": "1c1900b24f8b8d1d32fe4987bda3b474",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 4",
+		"Transform": {
+			"Translation": {
+				"X": -40.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "75e995f34a076bc85e6968a06622b2cf",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "1c1900b24f8b8d1d32fe4987bda3b474",
+		"V": {}
+	},
+	{
+		"ID": "fd18013a469e135a219d54b0793350de",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "1c1900b24f8b8d1d32fe4987bda3b474"
+	},
+	{
+		"ID": "458eb7c549afc9cca2ce54ae7e3e25b9",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 5",
+		"Transform": {
+			"Translation": {
+				"X": 0.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "695ef90d44e5828a6a049e9ca2a4969f",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "458eb7c549afc9cca2ce54ae7e3e25b9",
+		"V": {}
+	},
+	{
+		"ID": "99c7330c4ed87c14ba6641a022beb008",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "458eb7c549afc9cca2ce54ae7e3e25b9"
+	},
+	{
+		"ID": "d1e5649d4b814e6691e1958fbfb35fb6",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 6",
+		"Transform": {
+			"Translation": {
+				"X": 40.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "63f0247442b8ac6f036c568a10e89d21",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "d1e5649d4b814e6691e1958fbfb35fb6",
+		"V": {}
+	},
+	{
+		"ID": "b40750574b8dcb0688f7d1905de7633f",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "d1e5649d4b814e6691e1958fbfb35fb6"
+	},
+	{
+		"ID": "e1b04e1245b6a0d1f467a884e6529b68",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 7",
+		"Transform": {
+			"Translation": {
+				"X": 80.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "5ad4d403471b85a8421bcc83cb1031a7",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "e1b04e1245b6a0d1f467a884e6529b68",
+		"V": {}
+	},
+	{
+		"ID": "5263bcdd4b62f69fbe05099b06d37280",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "e1b04e1245b6a0d1f467a884e6529b68"
+	},
+	{
+		"ID": "05cc831c48d0f507c515cc93eb1ded0b",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 8",
+		"Transform": {
+			"Translation": {
+				"X": 120.0,
+				"Y": 280.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "37c895bc4868bbca2033acbd61047f86",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "05cc831c48d0f507c515cc93eb1ded0b",
+		"V": {}
+	},
+	{
+		"ID": "be97dabb4e12e0e359285d9ea845dd9d",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "05cc831c48d0f507c515cc93eb1ded0b"
+	},
+	{
+		"ID": "70349bd4497b8cbb630ba691fb574824",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 9",
+		"Transform": {
+			"Translation": {
+				"X": -100.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "b158c34f419545807d8a9092f58aa37a",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "70349bd4497b8cbb630ba691fb574824",
+		"V": {}
+	},
+	{
+		"ID": "c206dc5a48e461e26115a18ec687ea18",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "70349bd4497b8cbb630ba691fb574824"
+	},
+	{
+		"ID": "6b9b2adb485cd1828ae6e09151588b1e",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 8",
+		"Transform": {
+			"Translation": {
+				"X": -60.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "8ce5d2d246f6baa250c885be7ce19c44",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "6b9b2adb485cd1828ae6e09151588b1e",
+		"V": {}
+	},
+	{
+		"ID": "a65064ab4f50bab81657d0bc9f614381",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "6b9b2adb485cd1828ae6e09151588b1e"
+	},
+	{
+		"ID": "678e9c574ffc7b95f321c99f9333a27e",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 9",
+		"Transform": {
+			"Translation": {
+				"X": -20.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "fa3bcf9746f968fb0e4e03b4ef4a8756",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "678e9c574ffc7b95f321c99f9333a27e",
+		"V": {}
+	},
+	{
+		"ID": "9887d64e455313ab0be71498aa6d465c",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "678e9c574ffc7b95f321c99f9333a27e"
+	},
+	{
+		"ID": "18d2c4a543328c3f1221ee903eeb7ec4",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 10",
+		"Transform": {
+			"Translation": {
+				"X": 30.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "d7607e24422d413adfb61cb04123a6c0",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "18d2c4a543328c3f1221ee903eeb7ec4",
+		"V": {}
+	},
+	{
+		"ID": "37e5bf2d4e95497958933e8f145a3d4a",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "18d2c4a543328c3f1221ee903eeb7ec4"
+	},
+	{
+		"ID": "01e4578743a0abe4e86dc9a999ff57f9",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "131ed9b946cf69d22b015c8e5bace2d6",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "7-YellowHalfPellet 11",
+		"Transform": {
+			"Translation": {
+				"X": 70.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "8f65876c40e11c8635d67190c78d9607",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "2728ed42479450ccb6b4159a58dad54a",
+		"ParentID": "01e4578743a0abe4e86dc9a999ff57f9",
+		"V": {}
+	},
+	{
+		"ID": "c3bb03a24ff4a41af62bba9fcf405b5a",
+		"PrefabID": "a23537d84c449782f1c2b3b6e365b2a0",
+		"PrefabObjectID": "72f7cedb4209f7cec62c2c91cb93a44c",
+		"ParentID": "01e4578743a0abe4e86dc9a999ff57f9"
+	},
+	{
+		"ID": "a4cfe1f2406716d90590e6b740c52fe3",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 10",
+		"Transform": {
+			"Translation": {
+				"X": 110.0,
+				"Y": 310.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "5a001fb84df34bb26914a2b630946331",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "a4cfe1f2406716d90590e6b740c52fe3",
+		"V": {}
+	},
+	{
+		"ID": "7e5815c4471351bb1f782db5702b73ca",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "a4cfe1f2406716d90590e6b740c52fe3"
+	},
+	{
+		"ID": "d1b9af2944786cb5852b3985bafd7d9e",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 11",
+		"Transform": {
+			"Translation": {
+				"X": -80.0,
+				"Y": 340.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "dfe0b2ed4a5e234e69e570ae2117047b",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "d1b9af2944786cb5852b3985bafd7d9e",
+		"V": {}
+	},
+	{
+		"ID": "6062185443fd46c290e7d5b2440a8076",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "d1b9af2944786cb5852b3985bafd7d9e"
+	},
+	{
+		"ID": "8f65ed9443b2c81756fb9b8efc83ae3a",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 12",
+		"Transform": {
+			"Translation": {
+				"X": -40.0,
+				"Y": 340.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "a8ddf0b745c299b223c2c294dce8c8ca",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "8f65ed9443b2c81756fb9b8efc83ae3a",
+		"V": {}
+	},
+	{
+		"ID": "63e2908d49ee2fc981842e8f1ebd6a3e",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "8f65ed9443b2c81756fb9b8efc83ae3a"
+	},
+	{
+		"ID": "4536da63402fa7dd435b3f820dd25959",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 13",
+		"Transform": {
+			"Translation": {
+				"X": 50.0,
+				"Y": 340.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "5c7c0358416aa03983f666b3dd5fbfc8",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "4536da63402fa7dd435b3f820dd25959",
+		"V": {}
+	},
+	{
+		"ID": "eac089eb4a03ed3b1c4a7f871d1aef79",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "4536da63402fa7dd435b3f820dd25959"
+	},
+	{
+		"ID": "824e7cf14e04b5d83af3659d2d173dd4",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "6a6494a141843e0a5a62d289904cf558",
+		"ParentID": "88f63bc14db7c4737983898d5b9b6614",
+		"Name": "4-PinkHalfPellet 14",
+		"Transform": {
+			"Translation": {
+				"X": 90.0,
+				"Y": 340.0,
+				"Z": 70.0
+			},
+			"Scale": {
+				"X": 0.375,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Buffer": {
+			"Entries": [
+				{}
+			]
+		}
+	},
+	{
+		"ID": "eb2b94074ad5ef83127a5ea6a5f950e4",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "dc5e281042a1da5ba0ff5aa2f9a99988",
+		"ParentID": "824e7cf14e04b5d83af3659d2d173dd4",
+		"V": {}
+	},
+	{
+		"ID": "1674f1fb47c8f2852f8904a73ae43045",
+		"PrefabID": "0dc700de4163087299923bbfee8c5bcc",
+		"PrefabObjectID": "552f350d4f5f59487bc0dca031b0cd48",
+		"ParentID": "824e7cf14e04b5d83af3659d2d173dd4"
+	}
+]
+}

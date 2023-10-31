@@ -1,0 +1,59 @@
+{
+	"ID": "479142fd444f53ffa67608a3ce9dbe29",
+	"TypeName": "FlaxEngine.Prefab",
+	"EngineBuild": 6344,
+	"Data": [
+	{
+		"ID": "f4f0cea84f91df5acfc817b3fd870abf",
+		"TypeName": "FlaxEngine.StaticModel",
+		"ParentID": "00000000000000000000000000000000",
+		"Name": "5-PurplePellet",
+		"Transform": {
+			"Scale": {
+				"X": 0.75,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Model": "b43f0f8f4aaba3f3156896a5a22ba493",
+		"Buffer": {
+			"Entries": [
+				{
+					"Material": "4b7574444c951271235b3397a0cfab28",
+					"ShadowsMode": 3,
+					"Visible": true,
+					"ReceiveDecals": true
+				}
+			]
+		}
+	},
+	{
+		"ID": "02a60dfc4c0acb6c858474b539bb3a15",
+		"TypeName": "Game.Pellet",
+		"ParentID": "f4f0cea84f91df5acfc817b3fd870abf",
+		"V": {
+			"Value": 5
+		}
+	},
+	{
+		"ID": "65ffcbc04873e20dcb930db11897de6b",
+		"TypeName": "FlaxEngine.BoxCollider",
+		"ParentID": "f4f0cea84f91df5acfc817b3fd870abf",
+		"Name": "BoxCollider",
+		"Transform": {
+			"Scale": {
+				"X": 0.75,
+				"Y": 0.25,
+				"Z": 1.0
+			}
+		},
+		"Tag": "Pellet",
+		"ContactOffset": 0.0,
+		"Size": {
+			"X": 130.0,
+			"Y": 370.0,
+			"Z": 100.0
+		}
+	}
+]
+}
